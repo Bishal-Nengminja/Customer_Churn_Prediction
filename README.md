@@ -1,12 +1,12 @@
-Customer Churn Prediction
+#Customer Churn Prediction\
 A comprehensive machine learning project for predicting customer churn using the Telco Customer Churn dataset. The project covers data analysis, cleaning, feature engineering, model building, and evaluation.
 
-Project Overview
-Objective: Predict whether a customer will churn (leave) based on their demographic and service usage data.
+#Project Overview\
+*Objective: Predict whether a customer will churn (leave) based on their demographic and service usage data.
 
-Dataset: Telco Customer Churn dataset (Telco-Customer-Churn.csv)
+*Dataset: Telco Customer Churn dataset (Telco-Customer-Churn.csv)
 
-Tech Stack: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, XGBoost, Imbalanced-learn
+*Tech Stack: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, XGBoost, Imbalanced-learn
 
 Steps and Methodology
 1. Data Loading
