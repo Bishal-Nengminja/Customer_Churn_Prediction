@@ -41,13 +41,13 @@ This report is structured to provide a clear and thorough understanding of the p
 
 The complete project report is readily available as a PDF file within this repository:
 
-* **File Name:** `[Your_Project_Report_Filename.pdf](https://github.com/Bishal-Nengminja/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction.pdf)]`
+* **File Name:** `[Customer_Churn_Prediction.pdf]`
 * **Viewing:** You can view the report directly on GitHub by navigating to the file and clicking on it. GitHub's integrated PDF viewer will display the document in your browser.
 * **Downloading:** For offline access, you can download the PDF to your local machine by clicking the "Download" button when viewing the file.
 
 ## Repository Contents
 
-* `(https://github.com/Bishal-Nengminja/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction.pdf)`: The comprehensive project report.
+* `[Customer_Churn_Prediction.pdf]`: The comprehensive project report.
 * `README.md`: This file, serving as the introduction and guide to the repository.
 
 
@@ -57,6 +57,7 @@ For any questions, feedback, or further discussion regarding this project report
 
 * **Bishal Nengminja**
 * **bishalnengminja61@gmail.com**
-* **LinkedIn Profile : www.linkedin.com/in/bishal-nengminja-7a676034a, GitHub Profile : https://github.com/Bishal-Nengminja**
+* **LinkedIn Profile : www.linkedin.com/in/bishal-nengminja-7a676034a**
+* **GitHub Profile : https://github.com/Bishal-Nengminja**
 
 ---
